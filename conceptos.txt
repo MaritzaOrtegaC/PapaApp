@@ -1,1 +1,3 @@
-Distribución: Reparto de un producto 
+Distribución: Reparto de un producto desde un punto hasta a otro en donde se vende (RAE, 2026)
+
+Cadena: 
